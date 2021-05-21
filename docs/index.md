@@ -32,11 +32,11 @@ The hackathon is scheduled for 4 days as a fully virtual event. The first day is
 
 ## How to participate in Jülich Data Challenge
 1. Visit [Jülich Challenges](https://data-challenges.fz-juelich.de/)
-![alt text](../docs/images/6a.png)
+![alt text](images/6a.png)
 
 2. Sign up or Log in
 Sign Up and fill in your credentials or log in if you have already registered.
-![alt text](../images/5a.png)
+![alt text](images/5a.png)
 
 After signing up you would be on the dashboard page.
 ![alt text](../docs/images/4a.png)
