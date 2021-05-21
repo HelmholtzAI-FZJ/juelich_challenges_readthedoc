@@ -36,7 +36,7 @@ The hackathon is scheduled for 4 days as a fully virtual event. The first day is
 
 2. Sign up or Log in
 Sign Up and fill in your credentials or log in if you have already registered.
-![alt text](../docs/images/5a.png)
+![alt text](../images/5a.png)
 
 After signing up you would be on the dashboard page.
 ![alt text](../docs/images/4a.png)
