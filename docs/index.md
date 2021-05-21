@@ -39,19 +39,19 @@ Sign Up and fill in your credentials or log in if you have already registered.
 ![alt text](images/5a.png)
 
 After signing up you would be on the dashboard page.
-![alt text](../docs/images/4a.png)
+![alt text](images/4a.png)
 
 3. Choose challenge
 Then, go to challenges section and choose an active challenge.
-![alt text](../docs/images/3a.png)
+![alt text](images/3a.png)
 
 4. Challenge Page
 After reading the challenge instructions on the challenge page, you can participate in the challenge.
-![alt text](../docs/images/2a.png)
+![alt text](images/2a.png)
 
 5. Create Participant Team
 Create a participant team if there isn’t any or you can select from the existing ones. Click on ‘Participate’ tab after selecting a team.
-![alt text](../docs/images/1a.png)
+![alt text](images/1a.png)
 
 
 
@@ -64,5 +64,5 @@ You can go to the [link](https://storage.data-challenges.fz-juelich.de/) to down
     notebook.ipynb    # The notebook file.
 
 After generating the `submision.csv` file, you can simply upload the csv file to the challenge frontend. 
-![alt text](../docs/images/2b.png)
-![alt text](../docs/images/1b.png)
+![alt text](images/2b.png)
+![alt text](images/1b.png)
