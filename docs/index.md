@@ -8,7 +8,7 @@ Jülich Challenges target ML researchers, or traditional image analysts, lookin
 
 ## How to host a challenge on Jülich Data Challenge platform
 1. Setup challenge configuration <br />
-    We have created a sample challenge configuration that we recommend you to use to get started available at [https://github.com/HelmholtzAI-FZJ/juelich_challenges-template-challenge].
+    We have created a sample challenge configuration that we recommend you to use to get started available at https://github.com/HelmholtzAI-FZJ/juelich_challenges-template-challenge.
 
 2. Edit challenge configuration <br />
     Open `challenge_config.yml` from the repository that you cloned in step-1. This file defines all the different settings of your challenge such as start date, end date, number of phases, and submission limits etc. Edit this file based on your requirement.
