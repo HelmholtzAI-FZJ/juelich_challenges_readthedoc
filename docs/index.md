@@ -1,4 +1,4 @@
-# Welcome to Jülich Data Challenges
+# Welcome to Helmholtz AI Data Challenges
 
 ## About Us
 
@@ -28,7 +28,7 @@ The hackathon is scheduled for 4 days as a fully virtual event. The first day is
     Now, you just need to update the HTML templates in the templates/ directory of the bundle that you cloned.
 
 5. Upload configuration on Jülich Data Challenge platform <br />
-    Finally run the `./run.sh` script in the bundle. It will generate a challenge_config.zip file that contains all the details related to the challenge. Now, visit EvalAI - Host challenge page and select/create a challenge host team. Then upload the `challenge_config.zip`.
+    Finally run the `./run.sh` script in the bundle. It will generate a challenge_config.zip file that contains all the details related to the challenge. Now, visit [Jülich Data Challenge](https://data-challenges.fz-juelich.de/) - Host challenge page and select/create a challenge host team. Then upload the `challenge_config.zip`.
 
 ## How to participate in Jülich Data Challenge
 1. Visit [Jülich Challenges](https://data-challenges.fz-juelich.de/)
@@ -55,7 +55,7 @@ Create a participant team if there isn’t any or you can select from the existi
 
 
 
-## How to submit to a Jülich Data Challenge
+## How to submit your solution to a Jülich Data Challenge
 You can go to the [link](https://storage.data-challenges.fz-juelich.de/) to download the files associated with the challenge. Each Jülich Data challenge comes with a zip files containing the datasets and information about the challenge and a Jupyter Notebook.
 
     ### Challenge Layout
