@@ -1,4 +1,4 @@
-# Welcome to Helmholtz AI Data Challenges
+# Welcome to Jülich Data Challenges
 
 ## About Us
 
