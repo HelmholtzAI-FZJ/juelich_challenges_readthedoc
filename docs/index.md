@@ -1,12 +1,12 @@
-# Welcome to Jülich Data Challenges
+# Welcome to Helmholtz AI Data Challenges
 
 ## About Us
 
-[Jülich Challenges](https://data-challenges.fz-juelich.de/) is a platform for scientific data challenges initiated by Forschungszentrum Jülich. We host data challenges on the edge of scientific discovery promoting Jülich's unique scientific data and according research problems.
+[Helmholtz AI Challenges](https://data-challenges.fz-juelich.de/) is a platform for scientific data challenges initiated by Forschungszentrum Jülich. We host data challenges on the edge of scientific discovery promoting Helmholtz AI's unique scientific data and according research problems.
 
-Jülich Challenges target ML researchers, or traditional image analysts, looking for interesting data to work on, that allow quick results for fast publications. As benefits for FZJ we expect to attract ML and AI specialists to our unique data sets, scientific questions and therewith to provide solutions for Jülich-specific research questions. This comes with an increased visibility in the fields of ML and AI - across domains and within the ML communities.
+Helmholtz AI Challenges target ML researchers, or traditional image analysts, looking for interesting data to work on, that allow quick results for fast publications. We expect to attract ML and AI specialists to our unique data sets, scientific questions and therewith to provide solutions for domain-specific research questions. This comes with an increased visibility in the fields of ML and AI - across domains and within the ML communities.
 
-## How to host a challenge on Jülich Data Challenge platform
+## How to host a challenge on Helmholtz AI Data Challenge platform
 1. Setup challenge configuration <br />
     We have created a sample challenge configuration that we recommend you to use to get started available at [link](https://github.com/HelmholtzAI-FZJ/juelich_challenges-template-challenge). Clone this repository and follow the next steps.
 
@@ -23,11 +23,11 @@ Jülich Challenges target ML researchers, or traditional image analysts, lookin
 4. Edit challenge HTML templates <br />
     Now, you just need to update the HTML templates in the `templates/` directory of the bundle that you cloned. Each html files provides details such as challenge backgroud, evaluaton criteria, directions to download data, terms and condition, links to other useful resource, etc. to the participants. Yon can add text relevent to the your challenge. 
 
-5. Upload configuration on Jülich Data Challenge platform <br />
-    Finally run the `./run.sh` script in the bundle. It will generate a challenge_config.zip file that contains all the details related to the challenge. Now, visit [Jülich Data Challenge](https://data-challenges.fz-juelich.de/) - Host challenge page and select/create a challenge host team. Then upload the `challenge_config.zip`.
+5. Upload configuration on Helmholtz AI Data Challenge platform <br />
+    Finally run the `./run.sh` script in the bundle. It will generate a challenge_config.zip file that contains all the details related to the challenge. Now, visit [Helmholtz AI Data Challenge](https://data-challenges.fz-juelich.de/) - Host challenge page and select/create a challenge host team. Then upload the `challenge_config.zip`.
 
-## How to participate in a Jülich Data Challenge
-1. Visit [Jülich Challenges](https://data-challenges.fz-juelich.de/)
+## How to participate in a Helmholtz AI Data Challenge
+1. Visit [Helmholtz AI Challenges](https://data-challenges.fz-juelich.de/)
 ![alt text](images/6a.png)
 
 2. Sign up or Log in <br />
@@ -51,8 +51,8 @@ Create a participant team if there isn’t any or you can select from the existi
 
 
 
-## How to submit your solution to a Jülich Data Challenge
-The challenge you would like to contribute to gives you instructions how to download the respective data set. Several of them host their data directly on the challenges platform available at this link: [link](https://storage.data-challenges.fz-juelich.de/). Navigate there to download the files associated with the challenge. Each Jülich Data challenge comes with a zip files containing the datasets and information about the challenge and a Jupyter Notebook.
+## How to submit your solution to a Helmholtz AI Data Challenge
+The challenge you would like to contribute to gives you instructions how to download the respective data set. Several of them host their data directly on the challenges platform available at this link: [link](https://storage.data-challenges.fz-juelich.de/). Navigate there to download the files associated with the challenge. Each Helmholtz AI Data challenge comes with a zip files containing the datasets and information about the challenge and a Jupyter Notebook.
 
     ### Challenge Layout
 
