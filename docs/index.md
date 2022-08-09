@@ -10,10 +10,12 @@ The mission of the Helmholtz Data Challenges is to provide a premier academic da
 
 Contact: data-challenges@fz-juelich.de
 
-The Helmholtz Challenges platform was built on the basis of EvalAI, a great open source data challenge platform.
-Implementation: [The AI consultant team at Forschungszentrum Jülich](The AI consultant team at Forschungszentrum Jülich)
+The Helmholtz Data Challenges platform was built on the basis of EvalAI, a great open source data challenge platform.
 
-## How to host a challenge on Helmholtz Data Challenge platform
+Implementation: [The AI consultant team at Forschungszentrum Jülich](https://www.helmholtz.ai/themenmenue/our-research/consultant-teams/helmholtz-ai-consultants-fzj/index.html)
+
+## How to host a challenge on the Helmholtz Data Challenge platform
+
 1. Setup challenge configuration <br />
     We have created a sample challenge configuration that we recommend you to use to get started available at [link](https://github.com/HelmholtzAI-FZJ/juelich_challenges-template-challenge). Clone this repository and follow the next steps.
 
@@ -34,10 +36,12 @@ Implementation: [The AI consultant team at Forschungszentrum Jülich](The AI con
     Finally run the `./run.sh` script in the bundle. It will generate a challenge_config.zip file that contains all the details related to the challenge. Now, visit [Helmholtz Data Challenge](https://helmholtz-data-challenges.de/) - Host challenge page and select/create a challenge host team. Then upload the `challenge_config.zip`.
 
 ## How to participate in a Helmholtz Data Challenge
+
 1. Visit [Helmholtz Data Challenges](https://helmholtz-data-challenges.de/)
 ![alt text](images/6a.png)
 
 2. Sign up or Log in
+
 Sign Up and fill in your credentials or log in if you have already registered.
 ![alt text](images/5a.png)
 
@@ -45,20 +49,24 @@ Sign Up and fill in your credentials or log in if you have already registered.
 ![alt text](images/4a.png)
 
 4. Select a challenge
+
 Then, go to challenges section and choose an active challenge.
 ![alt text](images/3a.png)
 
 5. Challenge Page
+
 After reading the challenge instructions on the challenge page, you can participate in the challenge.
 ![alt text](images/2a.png)
 
 6. Create Participant Team
+
 Create a participant team if there isn’t any or you can select from the existing ones. Click on ‘Participate’ tab after selecting a team.
 ![alt text](images/1a.png)
 
 
 
 ## How to submit your solution to a Helmholtz Data Challenge
+
 The challenge you would like to contribute to gives you instructions how to download the respective data set. Several of them host their data directly on the challenges platform available at this link: [link](https://storage.data-challenges.fz-juelich.de/). Navigate there to download the files associated with the challenge. Each Helmholtz Data Challenge comes with a zip files containing the datasets and information about the challenge and a Jupyter Notebook.
 
     ### Challenge Layout
