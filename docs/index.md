@@ -40,26 +40,22 @@ Implementation: [The AI consultant team at Forschungszentrum Jülich](https://ww
 1. Visit [Helmholtz Data Challenges](https://helmholtz-data-challenges.de/)
 ![alt text](images/6a.png)
 
-2. Sign up or Log in
-
+2. Sign up or Log in<br />
 Sign Up and fill in your credentials or log in if you have already registered.
 ![alt text](images/5a.png)
 
 3. After signing up you would be on the dashboard page.
 ![alt text](images/4a.png)
 
-4. Select a challenge
-
+4. Select a challenge<br />
 Then, go to challenges section and choose an active challenge.
 ![alt text](images/3a.png)
 
-5. Challenge Page
-
+5. Challenge Page<br />
 After reading the challenge instructions on the challenge page, you can participate in the challenge.
 ![alt text](images/2a.png)
 
-6. Create Participant Team
-
+6. Create Participant Team<br />
 Create a participant team if there isn’t any or you can select from the existing ones. Click on ‘Participate’ tab after selecting a team.
 ![alt text](images/1a.png)
 
